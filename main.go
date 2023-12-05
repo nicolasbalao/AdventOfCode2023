@@ -2,13 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/nicolasbalao/AdventOfCode2023/day1"
+	"github.com/nicolasbalao/AdventOfCode2023/day2"
 )
 
-
-func main(){
+func main() {
 
 	fmt.Println("main package")
-	day1.Solve()
+	day2.SolveP1()
 
 }
